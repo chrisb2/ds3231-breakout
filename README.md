@@ -16,7 +16,7 @@ The design powers the DS3231 via the V<sub>bat</sub> input rather than V<sub>cc<
 
 ## PCB
 
-The design files can be found at [https://oshwlab.com/chrisb2/ds3231-low-power](https://oshwlab.com/chrisb2/ds3231-low-power).
+The design files can be found at [https://oshwlab.com/chrisb2/ds3231-low-power](https://oshwlab.com/chrisb2/ds3231-low-power) and the Gerbers are included in this repository.
 
 ![PCB](rtc-ds3231-pcb.png)
 
